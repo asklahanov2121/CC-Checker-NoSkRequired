@@ -52,7 +52,7 @@
       </div>
     </div>
     <div class="footer text-center">
-      <a href="https://github.com/asklahanov2121" target="_blank">© <script>document.write(new Date().getFullYear())</script> Asklahanov</a>
+      <a href="https://github.com/asklahanov2121" target="_blank">© <script>document.write(new Date().getFullYear())</script> Asklahanov Pogi</a>
     </div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="./assets/index.js"> </script>
